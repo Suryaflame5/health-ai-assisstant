@@ -1,0 +1,10 @@
+pyproject.toml
+ai_desktop_assistant.egg-info/PKG-INFO
+ai_desktop_assistant.egg-info/SOURCES.txt
+ai_desktop_assistant.egg-info/dependency_links.txt
+ai_desktop_assistant.egg-info/requires.txt
+ai_desktop_assistant.egg-info/top_level.txt
+app/config.py
+app/main.py
+app/models/database.py
+app/models/schemas.py
